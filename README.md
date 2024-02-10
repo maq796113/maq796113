@@ -1,5 +1,5 @@
 <h1 align="center">Greetings and ٱلسَّلَٰمُ عَلَيْكُمْ وَرَحْمَتُ ٱللَّٰهِ وَبَرَكَٰتُهُ👋, I'm Muhammad Abdullah Qureshi</h1>
-<h3 align="center">A passionate mobile app dev from Pakistan</h3>
+<h3 align="center">A passionate software developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maq796113&label=Profile%20views&color=0e75b6&style=flat" alt="maq796113" /> </p>
 
