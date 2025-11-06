@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/maq796113/maq796113/main/coder.gif"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/maq796113/maq796113/main/coder.gif?raw=1"  />
 
 
 ###
